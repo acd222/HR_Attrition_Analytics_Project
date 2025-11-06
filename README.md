@@ -1,1 +1,1 @@
-# HR_Attrition_Analytics_Project
+Created an extensive HR Attrition Analytics Dashboard in Power BI and Excel, translating workforce data into insights on diversity, compensation, tenure and attrition trends, empowering strategic and data-driven HR decisions.
